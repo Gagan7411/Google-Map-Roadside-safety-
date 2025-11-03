@@ -1,24 +1,17 @@
-The goal of a portfolio case study is to demonstrate your **thinking process** and the **business rationale** behind your solution. While I cannot generate a PDF file directly, I can provide you with the complete, well-structured content and layout instructions for a professional, high-impact **8-page PDF Case Study** modeled on the **STAR (Situation, Task, Action, Result) method**, which is highly effective for product and technical interviews.
-
-You can easily copy this content and formatting into Google Docs, Microsoft Word, or a presentation tool like Google Slides/Figma and export it as a PDF.
-
----
 
 ## 📄 Case Study Structure and Content
 
-### **Page 1: Cover Page & Executive Summary**
-
 | Element | Content |
 | :--- | :--- |
-| **Project Title** | **Google Maps Roadside Safety Platform (India POC)** |
-| **Your Name/Role** | \[Your Name], Product Designer / Product Manager (or relevant role) |
+| **Google Maps Roadside Safety Platform (India POC)** |
+|  **Gagan M**, AI Enthusiast| Problem Slover | Web Developer.
 | **Goal** | To transform Google Maps from a reactive navigation tool into a proactive, crowdsourced **Roadside Safety and Assistance Platform** for Indian National Highways. |
 | **Key Metrics (Hypothetical)** | Reduced Emergency Response Time by **40%** in dead zones. Increased Non-Emergency Roadside Assistance Offers by **150%**. |
 | **Core Innovation** | 1. **Crowdsourced "Help" Signal** to nearby drivers. 2. **Off-Grid SOS** bypassing cellular networks to connect to the NHAI Control Center. |
 
 ---
 
-### **Page 2: 🗺️ Situation (The Problem & Context)**
+### **Page 2: 🗺️ Situation (The Problem & Context)*
 
 * **Situation (S):** Indian drivers face severe challenges during vehicle breakdowns, especially on National Highways. The existing systems are fragmented and often fail in the most critical moments.
 * **Context:**
@@ -97,6 +90,5 @@ You can easily copy this content and formatting into Google Docs, Microsoft Word
 ### **Page 8: Conclusion & Call to Action**
 
 * **Conclusion:** This project validates that a simple feature addition—the **"Need Help" signal**—can leverage existing technology to solve a major real-world safety problem. By coupling crowdsourced assistance with a technically advanced **Off-Grid SOS** protocol, Google Maps can establish itself as the indispensable platform for driver safety in emerging markets.
-* **Thank you.** (Include your professional contact information/LinkedIn).
+* **Thank you.** **Portfolio** https://gagan-portfolio-theta.vercel.app/
 
-This structure ensures your case study is comprehensive, demonstrates product thinking across UX, technical design, and business strategy, and is perfectly aligned with the STAR method for maximum portfolio impact.
