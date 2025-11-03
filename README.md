@@ -26,7 +26,6 @@ This system is designed for high-stress, non-emergency situations (e.g., flat ti
 | **Hyper-Local Crowdsourced Alert** | Nearby Google Maps users (within a 5 km radius) receive a high-priority, non-intrusive banner alert showing the location and type of help needed. | **Enables Peer-to-Peer Assistance**, leveraging the massive user base to provide immediate, non-professional aid. |
 | **Integrated Service Directory** | Simultaneously, the app overlays and prioritizes the nearest, highly-rated Towing and Mechanic services from Google Business Profiles. | **Facilitates Trusted Professional Help** by offering vetted options without leaving the application. |
 
-***[Image Placeholder: Insert Image 1 (Initiating Help Request) and Image 3 (Nearby Driver's Notification) here, or provide links to the visuals.]***
 
 ---
 
@@ -57,12 +56,7 @@ My work focuses on leveraging technology to solve critical real-world problems, 
 
 This repository features a **Proof of Concept (POC)** that showcases my approach to product vision, technical feasibility, and crowdsourcing strategy.
 
-Connect with me on **[LinkedIn Profile Link]** or view my full portfolio **[Portfolio Website Link]**.
+Connect with me on **https://www.linkedin.com/in/gagan-m-46997a289/** or view my full portfolio **https://gagan-portfolio-theta.vercel.app/**.
 
 ---
 
-## ➡️ View Full Case Study
-
-For a detailed breakdown of the user flows, technical feasibility, and comprehensive business strategy:
-
-➡️ **[Link to your exported 4-Page PDF Case Study Here]**
